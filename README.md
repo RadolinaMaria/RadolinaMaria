@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RadolinaMaria
-- 👀 I’m interested in Java,.Net,C++,C#,JS and etc.
-- 🌱 I’m currently learning software engineer in 4th year.
-- 📫 How to reach me - radolinaandreeva18@gmail.com
-- I dream of working as Back-end Developer
+- 👀 I am into programming and interested in various programming languages.
+- 🌱 I have completed a Bachelor's degree in Software Engineering and a Master's in Applied Programming.
+- 📫 Contact Information: radolinaandreeva18@gmail.com.
+  
